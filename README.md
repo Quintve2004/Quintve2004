@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Quintve2004
 - 👀 I’m interested in programming
+- ✏️ Please help me to improve my code, I like lots of feedback
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Quintv@nelburg.nl
